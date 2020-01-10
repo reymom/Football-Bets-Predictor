@@ -1,0 +1,2 @@
+3 outputs: win home, draw or win away
+base=1000, multiplier=0.5, p=0.4
